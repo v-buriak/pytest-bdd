@@ -9,6 +9,7 @@ Unreleased
 - Fix ``pytest --generate-missing`` functionality being broken.
 - Fix problematic missing step definition from strings containing quotes.
 - Implement parsing escaped pipe characters in outline parameters #337.
+- Relax Gherkin validation (given-when-then) for simple steps generator.
 
 3.2.1
 ----------
